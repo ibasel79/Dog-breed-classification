@@ -27,7 +27,9 @@ to achieve this we will have to build a pipeline to process the user’s input, 
 
 · Step 7: Test Your Algorithm
 
+for the full dive into the procces you can see the blog post:
 
+https://medium.com/@baselma3/dog-breed-classification-3df8780f73cb
 
 
 ## Project Instructions
